@@ -16,6 +16,8 @@
  See this [example](https://github.com/MustafaAlahmid/Object-removal/blob/main/example.ipynb)
  
  Before:
+
+ ![before removing the object 'bottle' image ](https://github.com/MustafaAlahmid/Object-removal/blob/main/data/in/2007_000170.jpg)
  
  
  After:
