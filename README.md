@@ -22,7 +22,7 @@
  
  After:
  
- ![After removing the object 'bottle' image ](https://raw.githubusercontent.com/MustafaAlahmid/Object-removal/main/data/in/2007_000170.jpg?token=GHSAT0AAAAAAB5LA4GIHEP537RTPE3RJWA2ZAIVOUA)
+ ![After removing the object 'bottle' image ](https://raw.githubusercontent.com/MustafaAlahmid/Object-removal/main/a.jpg)
 
  
  
