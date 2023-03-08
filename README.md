@@ -1,6 +1,6 @@
 # Object-removal
  Remove object from image with inpainting
- when the dataset is unbalanced and traditional augumentation can't fix the balance issue
+ when the dataset is unbalanced and traditional augmentation can't fix the balance issue
  for example a dataset that contain 1000 sample of A and 100 sample of B, and the image that contain the object B are also contain the object A so augumentate the object 
  B will also augument the object A 
  the solution here is to remove the object A from the images
